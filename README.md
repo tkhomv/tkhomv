@@ -17,6 +17,7 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Проект 1 Формализация проблемы продукта маркетплейса (__[github](https://github.com/tkhomv/pa_project)__)|Выбор и расчет продуктовых метрик. Проверка гипотез.|pandas,numpy,seaborn, matplotlib|
+|Проект 2  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/vickiticy/for_project_1)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).|pandas,numpy,seaborn,  matplotlib,scipy,requests|
 
 <hr>
 
