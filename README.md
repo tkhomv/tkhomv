@@ -24,22 +24,18 @@
   <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  
-  
 </div>
 
 ### :metal: Умею:
-<ul>
 <li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
 <li>SQL: вложенные запросы, оконные функции, конструкции case
 <li>Формирование дашбордов
 <li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
 <li>Автоматизация процессов через Airflow
-</ul>
-* Мои проекты 👇: 
+
+Мои проекты 👇: 
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
