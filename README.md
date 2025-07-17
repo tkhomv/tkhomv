@@ -10,7 +10,7 @@
 
 ### :man_technologist: Обо мне:
 Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с экономическим образованием.
-</div>
+
 ---
 
 ### :hammer_and_wrench: Языки и инструменты :
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
 </div>
+
 
 ### :metal: Умею:
 <li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
