@@ -9,8 +9,8 @@
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/tkhomv)</a>
 
 ### :man_technologist: Обо мне:
-  Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с экономическим образованием.
-  
+Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с экономическим образованием.
+</div>
 ---
 
 ### :hammer_and_wrench: Языки и инструменты :
