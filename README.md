@@ -57,7 +57,3 @@
 | [Анализ мобильной игры](https://github.com/tkhomv/project) | Исследование ARPPU, Retention, Conversion, тестирование гипотез, анализ результатов A/B теста | pandas, numpy, scipy, matplotlib, seaborn |
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Спасибо+за+визит!;Буду+рад+обратной+связи+😊" alt="Typing SVG" />
-</p>
